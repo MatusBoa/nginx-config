@@ -1,6 +1,6 @@
 # Nginx Config
 
-Optimized nginx config for production use
+Optimized nginx config for production use. Primary targeting Laravel app.
 
 Included
 * HTTP Redirect
